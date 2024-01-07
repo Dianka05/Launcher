@@ -1,0 +1,29 @@
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\Sandbox launcher.exe.config
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\Sandbox launcher.exe
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\Sandbox launcher.pdb
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\App.g.cs
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher_MarkupCompile.cache
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher_MarkupCompile.lref
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\MainWindow.baml
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher.g.resources
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox_launcher.Properties.Resources.resources
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher.csproj.GenerateResource.cache
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher.csproj.CoreCompileInputs.cache
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher.exe
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher.pdb
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Buffers.dll
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Memory.dll
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Buffers.xml
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Memory.xml
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher.csproj.CopyComplete
+C:\Users\Diank\source\repos\Sandbox launcher\Sandbox launcher\obj\Debug\Sandbox launcher.csproj.AssemblyReference.cache
